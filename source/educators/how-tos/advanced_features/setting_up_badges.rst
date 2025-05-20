@@ -10,7 +10,7 @@ Currently the Open edX platform supports two badge services: Credly and Accredib
 Getting Started
 *****************
 
-To start using this feature a `Credly`_` or `Accredible`_ account is necessary.
+To start using this feature a `Credly`_ or `Accredible`_ account is necessary.
 
 For Credly:
 

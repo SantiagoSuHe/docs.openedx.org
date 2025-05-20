@@ -58,6 +58,8 @@ See :doc:`credentials:badges/examples` for some example configurations.
 
     :doc:`credentials:badges/examples`
 
+    :doc:`credentials:badges/configuration/index`
+
 
 **Maintenance chart**
 

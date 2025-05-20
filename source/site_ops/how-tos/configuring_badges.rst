@@ -79,7 +79,7 @@ The feature has its configuration:
 
 - ``events`` - explicit event bus signals list (only events with PII user data in payload are applicable).
 - ``credly`` - Credly integration details.
-- ``rules.ignored_keypaths`` - event payload paths to exclude from data rule options (see: Configuration_).
+- ``rules.ignored_keypaths`` - event payload paths to exclude from data rule options (see: :doc:`credentials:badges/configuration/index`).
 
 For more details on configuring badges, see :doc:`credentials:badges/quickstart`.
 
@@ -95,6 +95,7 @@ See :doc:`credentials:badges/examples` for some example configurations.
 
     :doc:`credentials:badges/examples`
 
+    :doc:`credentials:badges/configuration/index`
 
 .. _event-bus-redis: https://github.com/openedx/event-bus-redis
 
